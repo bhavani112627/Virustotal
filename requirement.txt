@@ -1,6 +1,2 @@
-arxiv==2.0.0
-python-telegram-bot[job-queue]==20.2
-scikit-learn
-pandas
-torch
-telethon
+httpx
+python-telegram-bot
