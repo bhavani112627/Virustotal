@@ -1,2 +1,0 @@
-pyTelegramBotAPI==7867502594:AAET8WqIC0mwsRKqD5F4O6JHQn0ydWRrIWs
-python-dotenv
